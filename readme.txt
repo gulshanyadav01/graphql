@@ -48,6 +48,6 @@
 
 10/02/2021 Task
 1. create appolo server 
-2. all models(discuss)
+2. all models(discuss);
 3. socket.io(gulshan);
 4. subscription(ashish);
