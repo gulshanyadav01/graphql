@@ -1,0 +1,19 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "this repo is for the learning purpose of graphql ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulshanyadav01/graphql.git"
+  },
+  "author": "gulshan yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulshanyadav01/graphql/issues"
+  },
+  "homepage": "https://github.com/gulshanyadav01/graphql#readme"
+}
