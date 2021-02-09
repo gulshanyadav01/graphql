@@ -1,10 +1,11 @@
 {
-  "name": "graphql",
+  "name": "spacex",
   "version": "1.0.0",
   "description": "this repo is for the learning purpose of graphql ",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -e server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/gulshanyadav01/graphql/issues"
   },
-  "homepage": "https://github.com/gulshanyadav01/graphql#readme"
+  "homepage": "https://github.com/gulshanyadav01/graphql#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
